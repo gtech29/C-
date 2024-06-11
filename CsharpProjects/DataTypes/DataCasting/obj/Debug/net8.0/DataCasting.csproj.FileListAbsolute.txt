@@ -1,0 +1,15 @@
+C:\Users\juanr\Desktop\Fcc\C#\C-\CsharpProjects\DataTypes\DataCasting\bin\Debug\net8.0\DataCasting.exe
+C:\Users\juanr\Desktop\Fcc\C#\C-\CsharpProjects\DataTypes\DataCasting\bin\Debug\net8.0\DataCasting.deps.json
+C:\Users\juanr\Desktop\Fcc\C#\C-\CsharpProjects\DataTypes\DataCasting\bin\Debug\net8.0\DataCasting.runtimeconfig.json
+C:\Users\juanr\Desktop\Fcc\C#\C-\CsharpProjects\DataTypes\DataCasting\bin\Debug\net8.0\DataCasting.dll
+C:\Users\juanr\Desktop\Fcc\C#\C-\CsharpProjects\DataTypes\DataCasting\bin\Debug\net8.0\DataCasting.pdb
+C:\Users\juanr\Desktop\Fcc\C#\C-\CsharpProjects\DataTypes\DataCasting\obj\Debug\net8.0\DataCasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanr\Desktop\Fcc\C#\C-\CsharpProjects\DataTypes\DataCasting\obj\Debug\net8.0\DataCasting.AssemblyInfoInputs.cache
+C:\Users\juanr\Desktop\Fcc\C#\C-\CsharpProjects\DataTypes\DataCasting\obj\Debug\net8.0\DataCasting.AssemblyInfo.cs
+C:\Users\juanr\Desktop\Fcc\C#\C-\CsharpProjects\DataTypes\DataCasting\obj\Debug\net8.0\DataCasting.csproj.CoreCompileInputs.cache
+C:\Users\juanr\Desktop\Fcc\C#\C-\CsharpProjects\DataTypes\DataCasting\obj\Debug\net8.0\DataCasting.sourcelink.json
+C:\Users\juanr\Desktop\Fcc\C#\C-\CsharpProjects\DataTypes\DataCasting\obj\Debug\net8.0\DataCasting.dll
+C:\Users\juanr\Desktop\Fcc\C#\C-\CsharpProjects\DataTypes\DataCasting\obj\Debug\net8.0\refint\DataCasting.dll
+C:\Users\juanr\Desktop\Fcc\C#\C-\CsharpProjects\DataTypes\DataCasting\obj\Debug\net8.0\DataCasting.pdb
+C:\Users\juanr\Desktop\Fcc\C#\C-\CsharpProjects\DataTypes\DataCasting\obj\Debug\net8.0\DataCasting.genruntimeconfig.cache
+C:\Users\juanr\Desktop\Fcc\C#\C-\CsharpProjects\DataTypes\DataCasting\obj\Debug\net8.0\ref\DataCasting.dll
