@@ -1,0 +1,14 @@
+C:\Users\juanr\Desktop\Fcc\C#\CsharpProjects\conditionalbranching\obj\Debug\net8.0\conditionalbranching.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanr\Desktop\Fcc\C#\CsharpProjects\conditionalbranching\obj\Debug\net8.0\conditionalbranching.AssemblyInfoInputs.cache
+C:\Users\juanr\Desktop\Fcc\C#\CsharpProjects\conditionalbranching\obj\Debug\net8.0\conditionalbranching.AssemblyInfo.cs
+C:\Users\juanr\Desktop\Fcc\C#\CsharpProjects\conditionalbranching\obj\Debug\net8.0\conditionalbranching.csproj.CoreCompileInputs.cache
+C:\Users\juanr\Desktop\Fcc\C#\CsharpProjects\conditionalbranching\bin\Debug\net8.0\conditionalbranching.exe
+C:\Users\juanr\Desktop\Fcc\C#\CsharpProjects\conditionalbranching\bin\Debug\net8.0\conditionalbranching.deps.json
+C:\Users\juanr\Desktop\Fcc\C#\CsharpProjects\conditionalbranching\bin\Debug\net8.0\conditionalbranching.runtimeconfig.json
+C:\Users\juanr\Desktop\Fcc\C#\CsharpProjects\conditionalbranching\bin\Debug\net8.0\conditionalbranching.dll
+C:\Users\juanr\Desktop\Fcc\C#\CsharpProjects\conditionalbranching\bin\Debug\net8.0\conditionalbranching.pdb
+C:\Users\juanr\Desktop\Fcc\C#\CsharpProjects\conditionalbranching\obj\Debug\net8.0\conditionalbranching.dll
+C:\Users\juanr\Desktop\Fcc\C#\CsharpProjects\conditionalbranching\obj\Debug\net8.0\refint\conditionalbranching.dll
+C:\Users\juanr\Desktop\Fcc\C#\CsharpProjects\conditionalbranching\obj\Debug\net8.0\conditionalbranching.pdb
+C:\Users\juanr\Desktop\Fcc\C#\CsharpProjects\conditionalbranching\obj\Debug\net8.0\conditionalbranching.genruntimeconfig.cache
+C:\Users\juanr\Desktop\Fcc\C#\CsharpProjects\conditionalbranching\obj\Debug\net8.0\ref\conditionalbranching.dll

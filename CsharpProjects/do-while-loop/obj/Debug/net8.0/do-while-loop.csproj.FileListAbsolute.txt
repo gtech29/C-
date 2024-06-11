@@ -1,0 +1,14 @@
+C:\Users\juanr\Desktop\Fcc\C#\CsharpProjects\do-while-loop\bin\Debug\net8.0\do-while-loop.exe
+C:\Users\juanr\Desktop\Fcc\C#\CsharpProjects\do-while-loop\bin\Debug\net8.0\do-while-loop.deps.json
+C:\Users\juanr\Desktop\Fcc\C#\CsharpProjects\do-while-loop\bin\Debug\net8.0\do-while-loop.runtimeconfig.json
+C:\Users\juanr\Desktop\Fcc\C#\CsharpProjects\do-while-loop\bin\Debug\net8.0\do-while-loop.dll
+C:\Users\juanr\Desktop\Fcc\C#\CsharpProjects\do-while-loop\bin\Debug\net8.0\do-while-loop.pdb
+C:\Users\juanr\Desktop\Fcc\C#\CsharpProjects\do-while-loop\obj\Debug\net8.0\do-while-loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanr\Desktop\Fcc\C#\CsharpProjects\do-while-loop\obj\Debug\net8.0\do-while-loop.AssemblyInfoInputs.cache
+C:\Users\juanr\Desktop\Fcc\C#\CsharpProjects\do-while-loop\obj\Debug\net8.0\do-while-loop.AssemblyInfo.cs
+C:\Users\juanr\Desktop\Fcc\C#\CsharpProjects\do-while-loop\obj\Debug\net8.0\do-while-loop.csproj.CoreCompileInputs.cache
+C:\Users\juanr\Desktop\Fcc\C#\CsharpProjects\do-while-loop\obj\Debug\net8.0\do-while-loop.dll
+C:\Users\juanr\Desktop\Fcc\C#\CsharpProjects\do-while-loop\obj\Debug\net8.0\refint\do-while-loop.dll
+C:\Users\juanr\Desktop\Fcc\C#\CsharpProjects\do-while-loop\obj\Debug\net8.0\do-while-loop.pdb
+C:\Users\juanr\Desktop\Fcc\C#\CsharpProjects\do-while-loop\obj\Debug\net8.0\do-while-loop.genruntimeconfig.cache
+C:\Users\juanr\Desktop\Fcc\C#\CsharpProjects\do-while-loop\obj\Debug\net8.0\ref\do-while-loop.dll

@@ -1,0 +1,14 @@
+C:\Users\juanr\Desktop\Fcc\C#\CsharpProjects\CalculateScores\bin\Debug\net8.0\CalculateScores.exe
+C:\Users\juanr\Desktop\Fcc\C#\CsharpProjects\CalculateScores\bin\Debug\net8.0\CalculateScores.deps.json
+C:\Users\juanr\Desktop\Fcc\C#\CsharpProjects\CalculateScores\bin\Debug\net8.0\CalculateScores.runtimeconfig.json
+C:\Users\juanr\Desktop\Fcc\C#\CsharpProjects\CalculateScores\bin\Debug\net8.0\CalculateScores.dll
+C:\Users\juanr\Desktop\Fcc\C#\CsharpProjects\CalculateScores\bin\Debug\net8.0\CalculateScores.pdb
+C:\Users\juanr\Desktop\Fcc\C#\CsharpProjects\CalculateScores\obj\Debug\net8.0\CalculateScores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanr\Desktop\Fcc\C#\CsharpProjects\CalculateScores\obj\Debug\net8.0\CalculateScores.AssemblyInfoInputs.cache
+C:\Users\juanr\Desktop\Fcc\C#\CsharpProjects\CalculateScores\obj\Debug\net8.0\CalculateScores.AssemblyInfo.cs
+C:\Users\juanr\Desktop\Fcc\C#\CsharpProjects\CalculateScores\obj\Debug\net8.0\CalculateScores.csproj.CoreCompileInputs.cache
+C:\Users\juanr\Desktop\Fcc\C#\CsharpProjects\CalculateScores\obj\Debug\net8.0\CalculateScores.dll
+C:\Users\juanr\Desktop\Fcc\C#\CsharpProjects\CalculateScores\obj\Debug\net8.0\refint\CalculateScores.dll
+C:\Users\juanr\Desktop\Fcc\C#\CsharpProjects\CalculateScores\obj\Debug\net8.0\CalculateScores.pdb
+C:\Users\juanr\Desktop\Fcc\C#\CsharpProjects\CalculateScores\obj\Debug\net8.0\CalculateScores.genruntimeconfig.cache
+C:\Users\juanr\Desktop\Fcc\C#\CsharpProjects\CalculateScores\obj\Debug\net8.0\ref\CalculateScores.dll

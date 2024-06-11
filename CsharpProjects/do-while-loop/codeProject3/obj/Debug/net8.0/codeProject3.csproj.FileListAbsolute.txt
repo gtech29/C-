@@ -1,0 +1,14 @@
+C:\Users\juanr\Desktop\Fcc\C#\CsharpProjects\do-while-loop\codeProject3\bin\Debug\net8.0\codeProject3.exe
+C:\Users\juanr\Desktop\Fcc\C#\CsharpProjects\do-while-loop\codeProject3\bin\Debug\net8.0\codeProject3.deps.json
+C:\Users\juanr\Desktop\Fcc\C#\CsharpProjects\do-while-loop\codeProject3\bin\Debug\net8.0\codeProject3.runtimeconfig.json
+C:\Users\juanr\Desktop\Fcc\C#\CsharpProjects\do-while-loop\codeProject3\bin\Debug\net8.0\codeProject3.dll
+C:\Users\juanr\Desktop\Fcc\C#\CsharpProjects\do-while-loop\codeProject3\bin\Debug\net8.0\codeProject3.pdb
+C:\Users\juanr\Desktop\Fcc\C#\CsharpProjects\do-while-loop\codeProject3\obj\Debug\net8.0\codeProject3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanr\Desktop\Fcc\C#\CsharpProjects\do-while-loop\codeProject3\obj\Debug\net8.0\codeProject3.AssemblyInfoInputs.cache
+C:\Users\juanr\Desktop\Fcc\C#\CsharpProjects\do-while-loop\codeProject3\obj\Debug\net8.0\codeProject3.AssemblyInfo.cs
+C:\Users\juanr\Desktop\Fcc\C#\CsharpProjects\do-while-loop\codeProject3\obj\Debug\net8.0\codeProject3.csproj.CoreCompileInputs.cache
+C:\Users\juanr\Desktop\Fcc\C#\CsharpProjects\do-while-loop\codeProject3\obj\Debug\net8.0\codeProject3.dll
+C:\Users\juanr\Desktop\Fcc\C#\CsharpProjects\do-while-loop\codeProject3\obj\Debug\net8.0\refint\codeProject3.dll
+C:\Users\juanr\Desktop\Fcc\C#\CsharpProjects\do-while-loop\codeProject3\obj\Debug\net8.0\codeProject3.pdb
+C:\Users\juanr\Desktop\Fcc\C#\CsharpProjects\do-while-loop\codeProject3\obj\Debug\net8.0\codeProject3.genruntimeconfig.cache
+C:\Users\juanr\Desktop\Fcc\C#\CsharpProjects\do-while-loop\codeProject3\obj\Debug\net8.0\ref\codeProject3.dll

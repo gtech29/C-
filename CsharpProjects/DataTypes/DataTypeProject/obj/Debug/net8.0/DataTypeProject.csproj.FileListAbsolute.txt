@@ -1,0 +1,14 @@
+C:\Users\juanr\Desktop\Fcc\C#\CsharpProjects\DataTypes\DataTypeProject\bin\Debug\net8.0\DataTypeProject.exe
+C:\Users\juanr\Desktop\Fcc\C#\CsharpProjects\DataTypes\DataTypeProject\bin\Debug\net8.0\DataTypeProject.deps.json
+C:\Users\juanr\Desktop\Fcc\C#\CsharpProjects\DataTypes\DataTypeProject\bin\Debug\net8.0\DataTypeProject.runtimeconfig.json
+C:\Users\juanr\Desktop\Fcc\C#\CsharpProjects\DataTypes\DataTypeProject\bin\Debug\net8.0\DataTypeProject.dll
+C:\Users\juanr\Desktop\Fcc\C#\CsharpProjects\DataTypes\DataTypeProject\bin\Debug\net8.0\DataTypeProject.pdb
+C:\Users\juanr\Desktop\Fcc\C#\CsharpProjects\DataTypes\DataTypeProject\obj\Debug\net8.0\DataTypeProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanr\Desktop\Fcc\C#\CsharpProjects\DataTypes\DataTypeProject\obj\Debug\net8.0\DataTypeProject.AssemblyInfoInputs.cache
+C:\Users\juanr\Desktop\Fcc\C#\CsharpProjects\DataTypes\DataTypeProject\obj\Debug\net8.0\DataTypeProject.AssemblyInfo.cs
+C:\Users\juanr\Desktop\Fcc\C#\CsharpProjects\DataTypes\DataTypeProject\obj\Debug\net8.0\DataTypeProject.csproj.CoreCompileInputs.cache
+C:\Users\juanr\Desktop\Fcc\C#\CsharpProjects\DataTypes\DataTypeProject\obj\Debug\net8.0\DataTypeProject.dll
+C:\Users\juanr\Desktop\Fcc\C#\CsharpProjects\DataTypes\DataTypeProject\obj\Debug\net8.0\refint\DataTypeProject.dll
+C:\Users\juanr\Desktop\Fcc\C#\CsharpProjects\DataTypes\DataTypeProject\obj\Debug\net8.0\DataTypeProject.pdb
+C:\Users\juanr\Desktop\Fcc\C#\CsharpProjects\DataTypes\DataTypeProject\obj\Debug\net8.0\DataTypeProject.genruntimeconfig.cache
+C:\Users\juanr\Desktop\Fcc\C#\CsharpProjects\DataTypes\DataTypeProject\obj\Debug\net8.0\ref\DataTypeProject.dll

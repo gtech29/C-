@@ -1,0 +1,14 @@
+C:\Users\juanr\Desktop\Fcc\C#\CsharpProjects\do-while-loop\codeProject2\bin\Debug\net8.0\codeProject2.exe
+C:\Users\juanr\Desktop\Fcc\C#\CsharpProjects\do-while-loop\codeProject2\bin\Debug\net8.0\codeProject2.deps.json
+C:\Users\juanr\Desktop\Fcc\C#\CsharpProjects\do-while-loop\codeProject2\bin\Debug\net8.0\codeProject2.runtimeconfig.json
+C:\Users\juanr\Desktop\Fcc\C#\CsharpProjects\do-while-loop\codeProject2\bin\Debug\net8.0\codeProject2.dll
+C:\Users\juanr\Desktop\Fcc\C#\CsharpProjects\do-while-loop\codeProject2\bin\Debug\net8.0\codeProject2.pdb
+C:\Users\juanr\Desktop\Fcc\C#\CsharpProjects\do-while-loop\codeProject2\obj\Debug\net8.0\codeProject2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanr\Desktop\Fcc\C#\CsharpProjects\do-while-loop\codeProject2\obj\Debug\net8.0\codeProject2.AssemblyInfoInputs.cache
+C:\Users\juanr\Desktop\Fcc\C#\CsharpProjects\do-while-loop\codeProject2\obj\Debug\net8.0\codeProject2.AssemblyInfo.cs
+C:\Users\juanr\Desktop\Fcc\C#\CsharpProjects\do-while-loop\codeProject2\obj\Debug\net8.0\codeProject2.csproj.CoreCompileInputs.cache
+C:\Users\juanr\Desktop\Fcc\C#\CsharpProjects\do-while-loop\codeProject2\obj\Debug\net8.0\codeProject2.dll
+C:\Users\juanr\Desktop\Fcc\C#\CsharpProjects\do-while-loop\codeProject2\obj\Debug\net8.0\refint\codeProject2.dll
+C:\Users\juanr\Desktop\Fcc\C#\CsharpProjects\do-while-loop\codeProject2\obj\Debug\net8.0\codeProject2.pdb
+C:\Users\juanr\Desktop\Fcc\C#\CsharpProjects\do-while-loop\codeProject2\obj\Debug\net8.0\codeProject2.genruntimeconfig.cache
+C:\Users\juanr\Desktop\Fcc\C#\CsharpProjects\do-while-loop\codeProject2\obj\Debug\net8.0\ref\codeProject2.dll
