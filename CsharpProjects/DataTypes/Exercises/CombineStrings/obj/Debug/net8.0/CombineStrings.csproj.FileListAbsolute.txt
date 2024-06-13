@@ -1,0 +1,15 @@
+C:\Users\juanr\Desktop\Fcc\C#\C-\CsharpProjects\DataTypes\Exercises\CombineStrings\bin\Debug\net8.0\CombineStrings.exe
+C:\Users\juanr\Desktop\Fcc\C#\C-\CsharpProjects\DataTypes\Exercises\CombineStrings\bin\Debug\net8.0\CombineStrings.deps.json
+C:\Users\juanr\Desktop\Fcc\C#\C-\CsharpProjects\DataTypes\Exercises\CombineStrings\bin\Debug\net8.0\CombineStrings.runtimeconfig.json
+C:\Users\juanr\Desktop\Fcc\C#\C-\CsharpProjects\DataTypes\Exercises\CombineStrings\bin\Debug\net8.0\CombineStrings.dll
+C:\Users\juanr\Desktop\Fcc\C#\C-\CsharpProjects\DataTypes\Exercises\CombineStrings\bin\Debug\net8.0\CombineStrings.pdb
+C:\Users\juanr\Desktop\Fcc\C#\C-\CsharpProjects\DataTypes\Exercises\CombineStrings\obj\Debug\net8.0\CombineStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanr\Desktop\Fcc\C#\C-\CsharpProjects\DataTypes\Exercises\CombineStrings\obj\Debug\net8.0\CombineStrings.AssemblyInfoInputs.cache
+C:\Users\juanr\Desktop\Fcc\C#\C-\CsharpProjects\DataTypes\Exercises\CombineStrings\obj\Debug\net8.0\CombineStrings.AssemblyInfo.cs
+C:\Users\juanr\Desktop\Fcc\C#\C-\CsharpProjects\DataTypes\Exercises\CombineStrings\obj\Debug\net8.0\CombineStrings.csproj.CoreCompileInputs.cache
+C:\Users\juanr\Desktop\Fcc\C#\C-\CsharpProjects\DataTypes\Exercises\CombineStrings\obj\Debug\net8.0\CombineStrings.sourcelink.json
+C:\Users\juanr\Desktop\Fcc\C#\C-\CsharpProjects\DataTypes\Exercises\CombineStrings\obj\Debug\net8.0\CombineStrings.dll
+C:\Users\juanr\Desktop\Fcc\C#\C-\CsharpProjects\DataTypes\Exercises\CombineStrings\obj\Debug\net8.0\refint\CombineStrings.dll
+C:\Users\juanr\Desktop\Fcc\C#\C-\CsharpProjects\DataTypes\Exercises\CombineStrings\obj\Debug\net8.0\CombineStrings.pdb
+C:\Users\juanr\Desktop\Fcc\C#\C-\CsharpProjects\DataTypes\Exercises\CombineStrings\obj\Debug\net8.0\CombineStrings.genruntimeconfig.cache
+C:\Users\juanr\Desktop\Fcc\C#\C-\CsharpProjects\DataTypes\Exercises\CombineStrings\obj\Debug\net8.0\ref\CombineStrings.dll
