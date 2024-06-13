@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CombineStrings")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b897f6c9a5c2eea541960b12a756bb386d7c4984")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4bd329e7f711cca298e01869d6efab2ee81d0d62")]
 [assembly: System.Reflection.AssemblyProductAttribute("CombineStrings")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CombineStrings")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

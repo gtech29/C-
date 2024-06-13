@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\juanr\\Desktop\\Fcc\\C#\\C-\\CsharpProjects\\DataTypes\\Exercises\\Exercises\\OutputMath\\OutputMath.csproj": {}
+    "C:\\Users\\juanr\\Desktop\\Fcc\\C#\\C-\\CsharpProjects\\DataTypes\\Exercises\\OutputMath\\OutputMath.csproj": {}
   },
   "projects": {
-    "C:\\Users\\juanr\\Desktop\\Fcc\\C#\\C-\\CsharpProjects\\DataTypes\\Exercises\\Exercises\\OutputMath\\OutputMath.csproj": {
+    "C:\\Users\\juanr\\Desktop\\Fcc\\C#\\C-\\CsharpProjects\\DataTypes\\Exercises\\OutputMath\\OutputMath.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\juanr\\Desktop\\Fcc\\C#\\C-\\CsharpProjects\\DataTypes\\Exercises\\Exercises\\OutputMath\\OutputMath.csproj",
+        "projectUniqueName": "C:\\Users\\juanr\\Desktop\\Fcc\\C#\\C-\\CsharpProjects\\DataTypes\\Exercises\\OutputMath\\OutputMath.csproj",
         "projectName": "OutputMath",
-        "projectPath": "C:\\Users\\juanr\\Desktop\\Fcc\\C#\\C-\\CsharpProjects\\DataTypes\\Exercises\\Exercises\\OutputMath\\OutputMath.csproj",
+        "projectPath": "C:\\Users\\juanr\\Desktop\\Fcc\\C#\\C-\\CsharpProjects\\DataTypes\\Exercises\\OutputMath\\OutputMath.csproj",
         "packagesPath": "C:\\Users\\juanr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\juanr\\Desktop\\Fcc\\C#\\C-\\CsharpProjects\\DataTypes\\Exercises\\Exercises\\OutputMath\\obj\\",
+        "outputPath": "C:\\Users\\juanr\\Desktop\\Fcc\\C#\\C-\\CsharpProjects\\DataTypes\\Exercises\\OutputMath\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
