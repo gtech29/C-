@@ -1,0 +1,15 @@
+C:\Users\juanr\Desktop\Fcc\C#\C-\CsharpProjects\DataTypes\Exercises\OutputMath\bin\Debug\net8.0\OutputMath.exe
+C:\Users\juanr\Desktop\Fcc\C#\C-\CsharpProjects\DataTypes\Exercises\OutputMath\bin\Debug\net8.0\OutputMath.deps.json
+C:\Users\juanr\Desktop\Fcc\C#\C-\CsharpProjects\DataTypes\Exercises\OutputMath\bin\Debug\net8.0\OutputMath.runtimeconfig.json
+C:\Users\juanr\Desktop\Fcc\C#\C-\CsharpProjects\DataTypes\Exercises\OutputMath\bin\Debug\net8.0\OutputMath.dll
+C:\Users\juanr\Desktop\Fcc\C#\C-\CsharpProjects\DataTypes\Exercises\OutputMath\bin\Debug\net8.0\OutputMath.pdb
+C:\Users\juanr\Desktop\Fcc\C#\C-\CsharpProjects\DataTypes\Exercises\OutputMath\obj\Debug\net8.0\OutputMath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanr\Desktop\Fcc\C#\C-\CsharpProjects\DataTypes\Exercises\OutputMath\obj\Debug\net8.0\OutputMath.AssemblyInfoInputs.cache
+C:\Users\juanr\Desktop\Fcc\C#\C-\CsharpProjects\DataTypes\Exercises\OutputMath\obj\Debug\net8.0\OutputMath.AssemblyInfo.cs
+C:\Users\juanr\Desktop\Fcc\C#\C-\CsharpProjects\DataTypes\Exercises\OutputMath\obj\Debug\net8.0\OutputMath.csproj.CoreCompileInputs.cache
+C:\Users\juanr\Desktop\Fcc\C#\C-\CsharpProjects\DataTypes\Exercises\OutputMath\obj\Debug\net8.0\OutputMath.sourcelink.json
+C:\Users\juanr\Desktop\Fcc\C#\C-\CsharpProjects\DataTypes\Exercises\OutputMath\obj\Debug\net8.0\OutputMath.dll
+C:\Users\juanr\Desktop\Fcc\C#\C-\CsharpProjects\DataTypes\Exercises\OutputMath\obj\Debug\net8.0\refint\OutputMath.dll
+C:\Users\juanr\Desktop\Fcc\C#\C-\CsharpProjects\DataTypes\Exercises\OutputMath\obj\Debug\net8.0\OutputMath.pdb
+C:\Users\juanr\Desktop\Fcc\C#\C-\CsharpProjects\DataTypes\Exercises\OutputMath\obj\Debug\net8.0\OutputMath.genruntimeconfig.cache
+C:\Users\juanr\Desktop\Fcc\C#\C-\CsharpProjects\DataTypes\Exercises\OutputMath\obj\Debug\net8.0\ref\OutputMath.dll
